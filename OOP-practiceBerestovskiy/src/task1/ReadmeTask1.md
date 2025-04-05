@@ -8,5 +8,5 @@
 
 ![img.png](image/img.png)
 
-**Код:**
-[code](code)
+**Код:** [Main1.java](code/Main1.java)
+

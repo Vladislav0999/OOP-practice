@@ -28,7 +28,7 @@
 
 **4. Приклад запуску:**
 
-
+![img_3.png](image/img_3.png)
 
 **Код:** [Main2Ex4.java](code/Main2Ex4.java)
 
