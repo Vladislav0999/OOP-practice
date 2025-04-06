@@ -9,6 +9,6 @@
 
 **Приклад запуску:**
 
+![img.png](image/img.png)
 
-
-**Код:**
+**Код:** [Main3.java](code/Main3.java)
