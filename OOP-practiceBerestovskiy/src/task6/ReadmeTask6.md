@@ -9,4 +9,4 @@
 
 ![img.png](image/img.png)
 
-**Код:** [ReadmeTask6.md](ReadmeTask6.md)
+**Код:** [Main6.java](code/Main6.java)
